@@ -14,7 +14,7 @@ By analyzing these three factors together, businesses can segment their customer
 In this case, I will use the dataset that I get from https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset
 
 Explore the Data
-Inspect the data, we have to make sure the columns required for RFM analysis exist (last purchase date, total orders, and total money spent). In this case, we use MySQL Workbench and query.
+Inspect the data, we have to make sure the columns required for RFM analysis exist (last purchase date, total orders, and total money spent). In this case, we use SQL/Python.
 
 These are the columns in the data :
 
