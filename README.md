@@ -1,4 +1,4 @@
-# RFM Analysis and Customers Segmentation Using SQL
+# RFM Analysis and Customers Segmentation Using SQL/Python and Tableau
 
 
 RFM stands for Recency, Frequency, and Monetary Value. It is a method used by businesses to analyze customer behavior and segment customers based on their purchasing patterns. Here's a breakdown of each component:
